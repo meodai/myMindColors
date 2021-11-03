@@ -4,7 +4,8 @@
   "description": "myMind color palettes",
   "main": "colors.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node buildsvg.js"
   },
   "repository": {
     "type": "git",
