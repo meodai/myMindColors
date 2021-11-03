@@ -1,4 +1,4 @@
 # myMindColors
 color palettes from https://access.mymind.com/colors
 
-![color palettes preview](https://raw.githubusercontent.com/meodai/myMindColors/main/colors.svg)
+![color palettes preview](./colors.svg)
