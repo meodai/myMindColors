@@ -1,3 +1,9 @@
+// 1) visit https: //access.mymind.com/colors
+// 2) open jsconsole
+// 3) paste the content of this file into it
+// 4) press enter
+// 5) paste the content of your clipboard into colors.json
+
 copy(
   JSON.stringify(
     Array.from(document.querySelectorAll('.color-block')).map($el => {
