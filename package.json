@@ -5,7 +5,7 @@
   "main": "colors.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node buildsvg.js"
+    "build": "node snatchColorsNode.js && node buildsvg.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "palette"
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^11.0.0"
+  }
 }
