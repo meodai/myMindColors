@@ -1,0 +1,45 @@
+const palettes = [{"name":"Riviera","colors":["#ff8b8b","#9c2525","#f9f8e6"]},{"name":"Swan Dive","colors":["#f9f7e8","#62bfad"]},{"name":"Radio Silence","colors":["#61bfad","#ffffff"]},{"name":"Corrupted Monk","colors":["#e54b4b","#ffffff"]},{"name":"Mr. Business","colors":["#167c80","#ffffff"]},{"name":"Brave Stranger","colors":["#b7e3e4","#f03f35"]},{"name":"Wes Sanderson","colors":["#efe8d8","#ff4552"]},{"name":"Le Carnaval","colors":["#005397","#ff8788"]},{"name":"Plant Matter","colors":["#32b67a","#ffffff"]},{"name":"Rabbit Dreams","colors":["#fbcbc1","#ffffff","#000000"]},{"name":"Laundry Service","colors":["#f3c9dd","#72aec5"]},{"name":"Favorite Bodega","colors":["#0bbcd6","#e6625e"]},{"name":"Thirsty Lilac","colors":["#bfb5d7","#ffffff"]},{"name":"Nightingale","colors":["#bea1a5","#2d1fe8","#000000"]},{"name":"Golden Afternoon","colors":["#f0cf61","#ebe8e1"]},{"name":"Wingwoman","colors":["#0e38b1","#ffffff"]},{"name":"Brain Waves","colors":["#a6cfe2","#ffffff","#0b0c11"]},{"name":"The Sanctuary","colors":["#371722","#ffffff","#bbab9b"]},{"name":"Ghosted","colors":["#c7c6c4","#008e8f"]},{"name":"Melted Shake","colors":["#dabaaf","#0b0c11","#cf2f89"]},{"name":"Earnest Proposal","colors":["#283470","#15a29c"]},{"name":"Swift Kiss","colors":["#ef3e4a","#fedac2","#b0d8dc"]},{"name":"Old Diary","colors":["#c0c2ce","#012f63","#fe667b"]},{"name":"Penny Candy","colors":["#eec0db","#162bf4"]},{"name":"Chivalrous Fox","colors":["#b6cac0","#c02a1b"]},{"name":"Billiards Room","colors":["#c5beaa","#b32a48","#28356a"]},{"name":"Cruller Intentions","colors":["#fdf06f","#d31b33"]},{"name":"Gentle Giant","colors":["#edb5bd","#000000","#bedfd4"]},{"name":"Drunk on Easter","colors":["#17c37b","#f4f4f4"]},{"name":"Packed Lunch","colors":["#f1c3b8","#19227d"]},{"name":"Dante's Daydream","colors":["#1b1d1c","#ea1821"]},{"name":"Bite Your Tongue","colors":["#e88565","#181a27"]},{"name":"Fresh Baguette","colors":["#ffefe5","#1fc8a9"]},{"name":"Righted Wrong","colors":["#f4c7ee","#008fd3"]},{"name":"No Dice","colors":["#77eedf","#28292b"]},{"name":"Precious Ego","colors":["#e57066","#28292b"]},{"name":"Open Book","colors":["#eed974","#28292b"]},{"name":"Fat Wallet","colors":["#fbfe56","#0b64c0"]},{"name":"Jam Jar","colors":["#a7bbc3","#ffffff","#c886a2"]},{"name":"Dad's Old Wallet","colors":["#3b465c","#e9e8d4"]},{"name":"Monastery Morning","colors":["#055a5b","#e6e6e6"]},{"name":"Torn Tutu","colors":["#9c9cdd","#cae9bf","#f9bdbd"]},{"name":"Faded Letter","colors":["#d3e8e1","#78a15d","#e44a66"]},{"name":"Mama's New Bag","colors":["#cba0aa","#5a3c20","#fae397"]},{"name":"Late Homework","colors":["#178e96","#ffffff","#fde3c8"]},{"name":"Spring Awakening","colors":["#20ad65","#fec8be"]},{"name":"Our Little Secret","colors":["#e75153","#58b89d","#4f3a4b"]},{"name":"Dinner Party","colors":["#4f3a4b","#e75152"]},{"name":"Cozy Sweater","colors":["#112378","#fbeccf"]},{"name":"Pleasant Journey","colors":["#e33946","#fdedb2"]},{"name":"Peach Fuzz","colors":["#fedccc","#f87c4c","#ffffff"]},{"name":"Dessert Island","colors":["#00b28b","#ffffff","#edc3c7"]},{"name":"Late Gift","colors":["#9357a9","#ffffff","#000000"]},{"name":"Faux Paw","colors":["#c6d7c7","#c98a6b","#ff5035"]},{"name":"Bad Banker","colors":["#12162d","#8b743d"]},{"name":"Bedtime Story","colors":["#bef6e9","#4b5c68","#bb828b"]},{"name":"Twisted Ribbon","colors":["#776ea7","#bdc6ff","#ebb9d4"]},{"name":"Dear Reader","colors":["#eaeaea","#bf8351","#abcee2"]},{"name":"And So On","colors":["#ef303b","#481c19"]},{"name":"Major Elle","colors":["#1812d6","#000018","#ffffff"]},{"name":"Awkward Penpal","colors":["#fffde7","#ec0b19","#189ba3"]},{"name":"Inside Joke","colors":["#f1d3d3","#000000","#1539cf"]},{"name":"Small Gamble","colors":["#d1e9e3","#334a45","#f3bfa9"]},{"name":"Lunch Money","colors":["#7de0e6","#ff2a93"]},{"name":"Over the Hill","colors":["#3b755f","#000000","#f2cb6c"]},{"name":"Skinny Dipped","colors":["#ce7182","#85ceba","#faeed4"]},{"name":"Second Cousin","colors":["#340b0b","#9b8fff"]},{"name":"Switched Twins","colors":["#f8ebee","#0c3934"]},{"name":"Abandoned Playground","colors":["#ff9966","#ffd2dd","#8c5f31"]},{"name":"Milo's Big Day","colors":["#3333ff","#cdffcc"]},{"name":"Block Party","colors":["#75ffc0","#7a30cf"]},{"name":"Fool's Errand","colors":["#fb9b2a","#0c00ff"]},{"name":"Vienna Stroll","colors":["#ff8fa4","#e5e8dc"]},{"name":"Endless Circle","colors":["#000000","#ff0000"]},{"name":"Open Sea","colors":["#083ea7","#1fde91"]},{"name":"Harmless Fling","colors":["#674b7c","#dd705c","#e5e8dc"]},{"name":"Young Jung","colors":["#19aad1","#ffcc4c"]},{"name":"Previous Engagement","colors":["#b1fdeb","#6b7c95","#000000"]},{"name":"Lucid Dream","colors":["#121738","#d17c78"]},{"name":"First Edition","colors":["#0c485e","#feb904"]},{"name":"Castle Rock","colors":["#ffe6ad","#ff4b24","#9a008a"]},{"name":"kühles Blondes","colors":["#022eac","#13e19b","#fba30c"]},{"name":"Excelsior!","colors":["#f94627","#ffffff","#9a008a"]},{"name":"Hidden Garden","colors":["#9ab79a","#094436","#d1e1cb","#fdff50"]},{"name":"The Cathedral","colors":["#424e22","#ffad67"]},{"name":"Exhalation","colors":["#c73e99","#f8da1b"]},{"name":"In the Vines","colors":["#5c457b","#ff7d39","#ffffff"]},{"name":"Diamond Day","colors":["#ff6090","#81072c","#feea0d"]},{"name":"Shipwreck","colors":["#0d4cbe","#cfcec7"]},{"name":"Rosebud","colors":["#501718","#fd750a","#ffffff"]},{"name":"Lost Time","colors":["#e7e7e7","#da9f18","#766c08"]},{"name":"Robed Witness","colors":["#8aa9c6","#093929"]},{"name":"Deep Pond","colors":["#b3e0e0","#000000","#ffffff"]},{"name":"Climb the Terrace","colors":["#343b3f","#ff89b5","#d1bdff"]},{"name":"Mirage","colors":["#cdb670","#ffffff","#000000"]},{"name":"Solar Flare","colors":["#f8da1b","#9a008a","#7b76a6"]},{"name":"Daytrip","colors":["#f83439","#9bc6e3","#321913"]},{"name":"Deep Breath","colors":["#eee9dc","#e2818a"]},{"name":"Crystal Palace","colors":["#e2a9c9","#000000","#fc411e"]},{"name":"Stardust","colors":["#0a005a","#f0f0f0","#fca59b","#fc411e"]},{"name":"Broken Spaceship","colors":["#cdcdd0","#f74a1f"]},{"name":"Overgrown","colors":["#f7f7f7","#26cb4d"]},{"name":"Hidden Passage","colors":["#2d1c46","#b6d5f4","#ec2326"]},{"name":"Tamed Beast","colors":["#053161","#ff6a34","#bed9da"]},{"name":"Golden Hour","colors":["#fdb90b","#fb5408","#8caecc","#321913"]},{"name":"The Cottage","colors":["#837663","#101c4e","#ffd3c2"]},{"name":"Tangled Web","colors":["#b2b2b2","#000000","#ffffff","#e9ff27"]},{"name":"Old World","colors":["#91a8cf","#fffbfb","#3e4668"]},{"name":"Paradiso","colors":["#f2f2f2","#000000","#0b64fe"]},{"name":"Fallen Petals","colors":["#f2ddbc","#ff67b9","#faad58"]},{"name":"Bloodsmoke","colors":["#ff8b8b","#9c2525"]}]
+
+/**
+ * @param {Array} palettes
+ * @return {Array} Array of arrays of colors
+ */
+function flattenPalettes(palettes) {
+  return palettes.reduce((acc, palette) => {
+    if (palette.hasOwnProperty('palettes')) {
+      return acc.concat(flattenPalettes(palette.palettes));
+    }
+    return acc.concat(palette);
+  }, []);
+}
+
+let localPalettes = palettes;
+let localPalettesFlat = flattenPalettes(localPalettes);
+
+const colorPalettes = {
+  palettes: localPalettes,
+  palettesFlat: localPalettesFlat,
+  get: (nameOrIndex) => {
+    if (typeof nameOrIndex === 'number') {
+      return localPalettesFlat[nameOrIndex];
+    }
+    return localPalettesFlat.find((p) => p.name === nameOrIndex);
+  },
+  random: (nbr) => {
+    if (nbr && typeof nbr != 'number' || nbr > 1 || nbr < 0) {
+      throw new Error('random() only accepts a number between 0 and 1');
+    }
+
+    return localPalettesFlat[
+        Math.floor(
+            (nbr || Math.random()) * localPalettesFlat.length,
+        )
+    ];
+  },
+  addPalettes: (newPalettes) => {
+    localPalettes = palettes.concat(newPalettes);
+    localPalettesFlat = flattenPalettes(localPalettes);
+  },
+};
+
+export {colorPalettes};

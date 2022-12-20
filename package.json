@@ -1,11 +1,12 @@
 {
   "name": "mymindcolors",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "myMind color palettes",
-  "main": "colors.json",
+  "main": "dist/palettes.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node snatchColorsNode.js && node buildsvg.js"
+    "build": "node snatchColorsNode.js && palette-aldente ./colors.json"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "palette-aldente": "^1.11.1",
     "puppeteer": "^11.0.0"
+  },
+  "exports": {
+    "import": "./dist/palettes.esm.js",
+    "require": "./dist/palettes.js"
   }
 }

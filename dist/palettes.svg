@@ -1,0 +1,295 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 2886">
+      <style>
+        text {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+        text {
+          font-size: 6px;
+        }
+      </style>
+      <text y="7" x="3">Riviera</text><rect width="64.66666666666667" height="10" y="10" x="0" fill="#ff8b8b" />
+<rect width="64.66666666666667" height="10" y="10" x="66.66666666666667" fill="#9c2525" />
+<rect width="64.66666666666667" height="10" y="10" x="133.33333333333334" fill="#f9f8e6" />
+<text y="33" x="3">Swan Dive</text><rect width="98" height="10" y="36" x="0" fill="#f9f7e8" />
+<rect width="98" height="10" y="36" x="100" fill="#62bfad" />
+<text y="59" x="3">Radio Silence</text><rect width="98" height="10" y="62" x="0" fill="#61bfad" />
+<rect width="98" height="10" y="62" x="100" fill="#ffffff" />
+<text y="85" x="3">Corrupted Monk</text><rect width="98" height="10" y="88" x="0" fill="#e54b4b" />
+<rect width="98" height="10" y="88" x="100" fill="#ffffff" />
+<text y="111" x="3">Mr. Business</text><rect width="98" height="10" y="114" x="0" fill="#167c80" />
+<rect width="98" height="10" y="114" x="100" fill="#ffffff" />
+<text y="137" x="3">Brave Stranger</text><rect width="98" height="10" y="140" x="0" fill="#b7e3e4" />
+<rect width="98" height="10" y="140" x="100" fill="#f03f35" />
+<text y="163" x="3">Wes Sanderson</text><rect width="98" height="10" y="166" x="0" fill="#efe8d8" />
+<rect width="98" height="10" y="166" x="100" fill="#ff4552" />
+<text y="189" x="3">Le Carnaval</text><rect width="98" height="10" y="192" x="0" fill="#005397" />
+<rect width="98" height="10" y="192" x="100" fill="#ff8788" />
+<text y="215" x="3">Plant Matter</text><rect width="98" height="10" y="218" x="0" fill="#32b67a" />
+<rect width="98" height="10" y="218" x="100" fill="#ffffff" />
+<text y="241" x="3">Rabbit Dreams</text><rect width="64.66666666666667" height="10" y="244" x="0" fill="#fbcbc1" />
+<rect width="64.66666666666667" height="10" y="244" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="244" x="133.33333333333334" fill="#000000" />
+<text y="267" x="3">Laundry Service</text><rect width="98" height="10" y="270" x="0" fill="#f3c9dd" />
+<rect width="98" height="10" y="270" x="100" fill="#72aec5" />
+<text y="293" x="3">Favorite Bodega</text><rect width="98" height="10" y="296" x="0" fill="#0bbcd6" />
+<rect width="98" height="10" y="296" x="100" fill="#e6625e" />
+<text y="319" x="3">Thirsty Lilac</text><rect width="98" height="10" y="322" x="0" fill="#bfb5d7" />
+<rect width="98" height="10" y="322" x="100" fill="#ffffff" />
+<text y="345" x="3">Nightingale</text><rect width="64.66666666666667" height="10" y="348" x="0" fill="#bea1a5" />
+<rect width="64.66666666666667" height="10" y="348" x="66.66666666666667" fill="#2d1fe8" />
+<rect width="64.66666666666667" height="10" y="348" x="133.33333333333334" fill="#000000" />
+<text y="371" x="3">Golden Afternoon</text><rect width="98" height="10" y="374" x="0" fill="#f0cf61" />
+<rect width="98" height="10" y="374" x="100" fill="#ebe8e1" />
+<text y="397" x="3">Wingwoman</text><rect width="98" height="10" y="400" x="0" fill="#0e38b1" />
+<rect width="98" height="10" y="400" x="100" fill="#ffffff" />
+<text y="423" x="3">Brain Waves</text><rect width="64.66666666666667" height="10" y="426" x="0" fill="#a6cfe2" />
+<rect width="64.66666666666667" height="10" y="426" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="426" x="133.33333333333334" fill="#0b0c11" />
+<text y="449" x="3">The Sanctuary</text><rect width="64.66666666666667" height="10" y="452" x="0" fill="#371722" />
+<rect width="64.66666666666667" height="10" y="452" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="452" x="133.33333333333334" fill="#bbab9b" />
+<text y="475" x="3">Ghosted</text><rect width="98" height="10" y="478" x="0" fill="#c7c6c4" />
+<rect width="98" height="10" y="478" x="100" fill="#008e8f" />
+<text y="501" x="3">Melted Shake</text><rect width="64.66666666666667" height="10" y="504" x="0" fill="#dabaaf" />
+<rect width="64.66666666666667" height="10" y="504" x="66.66666666666667" fill="#0b0c11" />
+<rect width="64.66666666666667" height="10" y="504" x="133.33333333333334" fill="#cf2f89" />
+<text y="527" x="3">Earnest Proposal</text><rect width="98" height="10" y="530" x="0" fill="#283470" />
+<rect width="98" height="10" y="530" x="100" fill="#15a29c" />
+<text y="553" x="3">Swift Kiss</text><rect width="64.66666666666667" height="10" y="556" x="0" fill="#ef3e4a" />
+<rect width="64.66666666666667" height="10" y="556" x="66.66666666666667" fill="#fedac2" />
+<rect width="64.66666666666667" height="10" y="556" x="133.33333333333334" fill="#b0d8dc" />
+<text y="579" x="3">Old Diary</text><rect width="64.66666666666667" height="10" y="582" x="0" fill="#c0c2ce" />
+<rect width="64.66666666666667" height="10" y="582" x="66.66666666666667" fill="#012f63" />
+<rect width="64.66666666666667" height="10" y="582" x="133.33333333333334" fill="#fe667b" />
+<text y="605" x="3">Penny Candy</text><rect width="98" height="10" y="608" x="0" fill="#eec0db" />
+<rect width="98" height="10" y="608" x="100" fill="#162bf4" />
+<text y="631" x="3">Chivalrous Fox</text><rect width="98" height="10" y="634" x="0" fill="#b6cac0" />
+<rect width="98" height="10" y="634" x="100" fill="#c02a1b" />
+<text y="657" x="3">Billiards Room</text><rect width="64.66666666666667" height="10" y="660" x="0" fill="#c5beaa" />
+<rect width="64.66666666666667" height="10" y="660" x="66.66666666666667" fill="#b32a48" />
+<rect width="64.66666666666667" height="10" y="660" x="133.33333333333334" fill="#28356a" />
+<text y="683" x="3">Cruller Intentions</text><rect width="98" height="10" y="686" x="0" fill="#fdf06f" />
+<rect width="98" height="10" y="686" x="100" fill="#d31b33" />
+<text y="709" x="3">Gentle Giant</text><rect width="64.66666666666667" height="10" y="712" x="0" fill="#edb5bd" />
+<rect width="64.66666666666667" height="10" y="712" x="66.66666666666667" fill="#000000" />
+<rect width="64.66666666666667" height="10" y="712" x="133.33333333333334" fill="#bedfd4" />
+<text y="735" x="3">Drunk on Easter</text><rect width="98" height="10" y="738" x="0" fill="#17c37b" />
+<rect width="98" height="10" y="738" x="100" fill="#f4f4f4" />
+<text y="761" x="3">Packed Lunch</text><rect width="98" height="10" y="764" x="0" fill="#f1c3b8" />
+<rect width="98" height="10" y="764" x="100" fill="#19227d" />
+<text y="787" x="3">Dante's Daydream</text><rect width="98" height="10" y="790" x="0" fill="#1b1d1c" />
+<rect width="98" height="10" y="790" x="100" fill="#ea1821" />
+<text y="813" x="3">Bite Your Tongue</text><rect width="98" height="10" y="816" x="0" fill="#e88565" />
+<rect width="98" height="10" y="816" x="100" fill="#181a27" />
+<text y="839" x="3">Fresh Baguette</text><rect width="98" height="10" y="842" x="0" fill="#ffefe5" />
+<rect width="98" height="10" y="842" x="100" fill="#1fc8a9" />
+<text y="865" x="3">Righted Wrong</text><rect width="98" height="10" y="868" x="0" fill="#f4c7ee" />
+<rect width="98" height="10" y="868" x="100" fill="#008fd3" />
+<text y="891" x="3">No Dice</text><rect width="98" height="10" y="894" x="0" fill="#77eedf" />
+<rect width="98" height="10" y="894" x="100" fill="#28292b" />
+<text y="917" x="3">Precious Ego</text><rect width="98" height="10" y="920" x="0" fill="#e57066" />
+<rect width="98" height="10" y="920" x="100" fill="#28292b" />
+<text y="943" x="3">Open Book</text><rect width="98" height="10" y="946" x="0" fill="#eed974" />
+<rect width="98" height="10" y="946" x="100" fill="#28292b" />
+<text y="969" x="3">Fat Wallet</text><rect width="98" height="10" y="972" x="0" fill="#fbfe56" />
+<rect width="98" height="10" y="972" x="100" fill="#0b64c0" />
+<text y="995" x="3">Jam Jar</text><rect width="64.66666666666667" height="10" y="998" x="0" fill="#a7bbc3" />
+<rect width="64.66666666666667" height="10" y="998" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="998" x="133.33333333333334" fill="#c886a2" />
+<text y="1021" x="3">Dad's Old Wallet</text><rect width="98" height="10" y="1024" x="0" fill="#3b465c" />
+<rect width="98" height="10" y="1024" x="100" fill="#e9e8d4" />
+<text y="1047" x="3">Monastery Morning</text><rect width="98" height="10" y="1050" x="0" fill="#055a5b" />
+<rect width="98" height="10" y="1050" x="100" fill="#e6e6e6" />
+<text y="1073" x="3">Torn Tutu</text><rect width="64.66666666666667" height="10" y="1076" x="0" fill="#9c9cdd" />
+<rect width="64.66666666666667" height="10" y="1076" x="66.66666666666667" fill="#cae9bf" />
+<rect width="64.66666666666667" height="10" y="1076" x="133.33333333333334" fill="#f9bdbd" />
+<text y="1099" x="3">Faded Letter</text><rect width="64.66666666666667" height="10" y="1102" x="0" fill="#d3e8e1" />
+<rect width="64.66666666666667" height="10" y="1102" x="66.66666666666667" fill="#78a15d" />
+<rect width="64.66666666666667" height="10" y="1102" x="133.33333333333334" fill="#e44a66" />
+<text y="1125" x="3">Mama's New Bag</text><rect width="64.66666666666667" height="10" y="1128" x="0" fill="#cba0aa" />
+<rect width="64.66666666666667" height="10" y="1128" x="66.66666666666667" fill="#5a3c20" />
+<rect width="64.66666666666667" height="10" y="1128" x="133.33333333333334" fill="#fae397" />
+<text y="1151" x="3">Late Homework</text><rect width="64.66666666666667" height="10" y="1154" x="0" fill="#178e96" />
+<rect width="64.66666666666667" height="10" y="1154" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="1154" x="133.33333333333334" fill="#fde3c8" />
+<text y="1177" x="3">Spring Awakening</text><rect width="98" height="10" y="1180" x="0" fill="#20ad65" />
+<rect width="98" height="10" y="1180" x="100" fill="#fec8be" />
+<text y="1203" x="3">Our Little Secret</text><rect width="64.66666666666667" height="10" y="1206" x="0" fill="#e75153" />
+<rect width="64.66666666666667" height="10" y="1206" x="66.66666666666667" fill="#58b89d" />
+<rect width="64.66666666666667" height="10" y="1206" x="133.33333333333334" fill="#4f3a4b" />
+<text y="1229" x="3">Dinner Party</text><rect width="98" height="10" y="1232" x="0" fill="#4f3a4b" />
+<rect width="98" height="10" y="1232" x="100" fill="#e75152" />
+<text y="1255" x="3">Cozy Sweater</text><rect width="98" height="10" y="1258" x="0" fill="#112378" />
+<rect width="98" height="10" y="1258" x="100" fill="#fbeccf" />
+<text y="1281" x="3">Pleasant Journey</text><rect width="98" height="10" y="1284" x="0" fill="#e33946" />
+<rect width="98" height="10" y="1284" x="100" fill="#fdedb2" />
+<text y="1307" x="3">Peach Fuzz</text><rect width="64.66666666666667" height="10" y="1310" x="0" fill="#fedccc" />
+<rect width="64.66666666666667" height="10" y="1310" x="66.66666666666667" fill="#f87c4c" />
+<rect width="64.66666666666667" height="10" y="1310" x="133.33333333333334" fill="#ffffff" />
+<text y="1333" x="3">Dessert Island</text><rect width="64.66666666666667" height="10" y="1336" x="0" fill="#00b28b" />
+<rect width="64.66666666666667" height="10" y="1336" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="1336" x="133.33333333333334" fill="#edc3c7" />
+<text y="1359" x="3">Late Gift</text><rect width="64.66666666666667" height="10" y="1362" x="0" fill="#9357a9" />
+<rect width="64.66666666666667" height="10" y="1362" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="1362" x="133.33333333333334" fill="#000000" />
+<text y="1385" x="3">Faux Paw</text><rect width="64.66666666666667" height="10" y="1388" x="0" fill="#c6d7c7" />
+<rect width="64.66666666666667" height="10" y="1388" x="66.66666666666667" fill="#c98a6b" />
+<rect width="64.66666666666667" height="10" y="1388" x="133.33333333333334" fill="#ff5035" />
+<text y="1411" x="3">Bad Banker</text><rect width="98" height="10" y="1414" x="0" fill="#12162d" />
+<rect width="98" height="10" y="1414" x="100" fill="#8b743d" />
+<text y="1437" x="3">Bedtime Story</text><rect width="64.66666666666667" height="10" y="1440" x="0" fill="#bef6e9" />
+<rect width="64.66666666666667" height="10" y="1440" x="66.66666666666667" fill="#4b5c68" />
+<rect width="64.66666666666667" height="10" y="1440" x="133.33333333333334" fill="#bb828b" />
+<text y="1463" x="3">Twisted Ribbon</text><rect width="64.66666666666667" height="10" y="1466" x="0" fill="#776ea7" />
+<rect width="64.66666666666667" height="10" y="1466" x="66.66666666666667" fill="#bdc6ff" />
+<rect width="64.66666666666667" height="10" y="1466" x="133.33333333333334" fill="#ebb9d4" />
+<text y="1489" x="3">Dear Reader</text><rect width="64.66666666666667" height="10" y="1492" x="0" fill="#eaeaea" />
+<rect width="64.66666666666667" height="10" y="1492" x="66.66666666666667" fill="#bf8351" />
+<rect width="64.66666666666667" height="10" y="1492" x="133.33333333333334" fill="#abcee2" />
+<text y="1515" x="3">And So On</text><rect width="98" height="10" y="1518" x="0" fill="#ef303b" />
+<rect width="98" height="10" y="1518" x="100" fill="#481c19" />
+<text y="1541" x="3">Major Elle</text><rect width="64.66666666666667" height="10" y="1544" x="0" fill="#1812d6" />
+<rect width="64.66666666666667" height="10" y="1544" x="66.66666666666667" fill="#000018" />
+<rect width="64.66666666666667" height="10" y="1544" x="133.33333333333334" fill="#ffffff" />
+<text y="1567" x="3">Awkward Penpal</text><rect width="64.66666666666667" height="10" y="1570" x="0" fill="#fffde7" />
+<rect width="64.66666666666667" height="10" y="1570" x="66.66666666666667" fill="#ec0b19" />
+<rect width="64.66666666666667" height="10" y="1570" x="133.33333333333334" fill="#189ba3" />
+<text y="1593" x="3">Inside Joke</text><rect width="64.66666666666667" height="10" y="1596" x="0" fill="#f1d3d3" />
+<rect width="64.66666666666667" height="10" y="1596" x="66.66666666666667" fill="#000000" />
+<rect width="64.66666666666667" height="10" y="1596" x="133.33333333333334" fill="#1539cf" />
+<text y="1619" x="3">Small Gamble</text><rect width="64.66666666666667" height="10" y="1622" x="0" fill="#d1e9e3" />
+<rect width="64.66666666666667" height="10" y="1622" x="66.66666666666667" fill="#334a45" />
+<rect width="64.66666666666667" height="10" y="1622" x="133.33333333333334" fill="#f3bfa9" />
+<text y="1645" x="3">Lunch Money</text><rect width="98" height="10" y="1648" x="0" fill="#7de0e6" />
+<rect width="98" height="10" y="1648" x="100" fill="#ff2a93" />
+<text y="1671" x="3">Over the Hill</text><rect width="64.66666666666667" height="10" y="1674" x="0" fill="#3b755f" />
+<rect width="64.66666666666667" height="10" y="1674" x="66.66666666666667" fill="#000000" />
+<rect width="64.66666666666667" height="10" y="1674" x="133.33333333333334" fill="#f2cb6c" />
+<text y="1697" x="3">Skinny Dipped</text><rect width="64.66666666666667" height="10" y="1700" x="0" fill="#ce7182" />
+<rect width="64.66666666666667" height="10" y="1700" x="66.66666666666667" fill="#85ceba" />
+<rect width="64.66666666666667" height="10" y="1700" x="133.33333333333334" fill="#faeed4" />
+<text y="1723" x="3">Second Cousin</text><rect width="98" height="10" y="1726" x="0" fill="#340b0b" />
+<rect width="98" height="10" y="1726" x="100" fill="#9b8fff" />
+<text y="1749" x="3">Switched Twins</text><rect width="98" height="10" y="1752" x="0" fill="#f8ebee" />
+<rect width="98" height="10" y="1752" x="100" fill="#0c3934" />
+<text y="1775" x="3">Abandoned Playground</text><rect width="64.66666666666667" height="10" y="1778" x="0" fill="#ff9966" />
+<rect width="64.66666666666667" height="10" y="1778" x="66.66666666666667" fill="#ffd2dd" />
+<rect width="64.66666666666667" height="10" y="1778" x="133.33333333333334" fill="#8c5f31" />
+<text y="1801" x="3">Milo's Big Day</text><rect width="98" height="10" y="1804" x="0" fill="#3333ff" />
+<rect width="98" height="10" y="1804" x="100" fill="#cdffcc" />
+<text y="1827" x="3">Block Party</text><rect width="98" height="10" y="1830" x="0" fill="#75ffc0" />
+<rect width="98" height="10" y="1830" x="100" fill="#7a30cf" />
+<text y="1853" x="3">Fool's Errand</text><rect width="98" height="10" y="1856" x="0" fill="#fb9b2a" />
+<rect width="98" height="10" y="1856" x="100" fill="#0c00ff" />
+<text y="1879" x="3">Vienna Stroll</text><rect width="98" height="10" y="1882" x="0" fill="#ff8fa4" />
+<rect width="98" height="10" y="1882" x="100" fill="#e5e8dc" />
+<text y="1905" x="3">Endless Circle</text><rect width="98" height="10" y="1908" x="0" fill="#000000" />
+<rect width="98" height="10" y="1908" x="100" fill="#ff0000" />
+<text y="1931" x="3">Open Sea</text><rect width="98" height="10" y="1934" x="0" fill="#083ea7" />
+<rect width="98" height="10" y="1934" x="100" fill="#1fde91" />
+<text y="1957" x="3">Harmless Fling</text><rect width="64.66666666666667" height="10" y="1960" x="0" fill="#674b7c" />
+<rect width="64.66666666666667" height="10" y="1960" x="66.66666666666667" fill="#dd705c" />
+<rect width="64.66666666666667" height="10" y="1960" x="133.33333333333334" fill="#e5e8dc" />
+<text y="1983" x="3">Young Jung</text><rect width="98" height="10" y="1986" x="0" fill="#19aad1" />
+<rect width="98" height="10" y="1986" x="100" fill="#ffcc4c" />
+<text y="2009" x="3">Previous Engagement</text><rect width="64.66666666666667" height="10" y="2012" x="0" fill="#b1fdeb" />
+<rect width="64.66666666666667" height="10" y="2012" x="66.66666666666667" fill="#6b7c95" />
+<rect width="64.66666666666667" height="10" y="2012" x="133.33333333333334" fill="#000000" />
+<text y="2035" x="3">Lucid Dream</text><rect width="98" height="10" y="2038" x="0" fill="#121738" />
+<rect width="98" height="10" y="2038" x="100" fill="#d17c78" />
+<text y="2061" x="3">First Edition</text><rect width="98" height="10" y="2064" x="0" fill="#0c485e" />
+<rect width="98" height="10" y="2064" x="100" fill="#feb904" />
+<text y="2087" x="3">Castle Rock</text><rect width="64.66666666666667" height="10" y="2090" x="0" fill="#ffe6ad" />
+<rect width="64.66666666666667" height="10" y="2090" x="66.66666666666667" fill="#ff4b24" />
+<rect width="64.66666666666667" height="10" y="2090" x="133.33333333333334" fill="#9a008a" />
+<text y="2113" x="3">kühles Blondes</text><rect width="64.66666666666667" height="10" y="2116" x="0" fill="#022eac" />
+<rect width="64.66666666666667" height="10" y="2116" x="66.66666666666667" fill="#13e19b" />
+<rect width="64.66666666666667" height="10" y="2116" x="133.33333333333334" fill="#fba30c" />
+<text y="2139" x="3">Excelsior!</text><rect width="64.66666666666667" height="10" y="2142" x="0" fill="#f94627" />
+<rect width="64.66666666666667" height="10" y="2142" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="2142" x="133.33333333333334" fill="#9a008a" />
+<text y="2165" x="3">Hidden Garden</text><rect width="48" height="10" y="2168" x="0" fill="#9ab79a" />
+<rect width="48" height="10" y="2168" x="50" fill="#094436" />
+<rect width="48" height="10" y="2168" x="100" fill="#d1e1cb" />
+<rect width="48" height="10" y="2168" x="150" fill="#fdff50" />
+<text y="2191" x="3">The Cathedral</text><rect width="98" height="10" y="2194" x="0" fill="#424e22" />
+<rect width="98" height="10" y="2194" x="100" fill="#ffad67" />
+<text y="2217" x="3">Exhalation</text><rect width="98" height="10" y="2220" x="0" fill="#c73e99" />
+<rect width="98" height="10" y="2220" x="100" fill="#f8da1b" />
+<text y="2243" x="3">In the Vines</text><rect width="64.66666666666667" height="10" y="2246" x="0" fill="#5c457b" />
+<rect width="64.66666666666667" height="10" y="2246" x="66.66666666666667" fill="#ff7d39" />
+<rect width="64.66666666666667" height="10" y="2246" x="133.33333333333334" fill="#ffffff" />
+<text y="2269" x="3">Diamond Day</text><rect width="64.66666666666667" height="10" y="2272" x="0" fill="#ff6090" />
+<rect width="64.66666666666667" height="10" y="2272" x="66.66666666666667" fill="#81072c" />
+<rect width="64.66666666666667" height="10" y="2272" x="133.33333333333334" fill="#feea0d" />
+<text y="2295" x="3">Shipwreck</text><rect width="98" height="10" y="2298" x="0" fill="#0d4cbe" />
+<rect width="98" height="10" y="2298" x="100" fill="#cfcec7" />
+<text y="2321" x="3">Rosebud</text><rect width="64.66666666666667" height="10" y="2324" x="0" fill="#501718" />
+<rect width="64.66666666666667" height="10" y="2324" x="66.66666666666667" fill="#fd750a" />
+<rect width="64.66666666666667" height="10" y="2324" x="133.33333333333334" fill="#ffffff" />
+<text y="2347" x="3">Lost Time</text><rect width="64.66666666666667" height="10" y="2350" x="0" fill="#e7e7e7" />
+<rect width="64.66666666666667" height="10" y="2350" x="66.66666666666667" fill="#da9f18" />
+<rect width="64.66666666666667" height="10" y="2350" x="133.33333333333334" fill="#766c08" />
+<text y="2373" x="3">Robed Witness</text><rect width="98" height="10" y="2376" x="0" fill="#8aa9c6" />
+<rect width="98" height="10" y="2376" x="100" fill="#093929" />
+<text y="2399" x="3">Deep Pond</text><rect width="64.66666666666667" height="10" y="2402" x="0" fill="#b3e0e0" />
+<rect width="64.66666666666667" height="10" y="2402" x="66.66666666666667" fill="#000000" />
+<rect width="64.66666666666667" height="10" y="2402" x="133.33333333333334" fill="#ffffff" />
+<text y="2425" x="3">Climb the Terrace</text><rect width="64.66666666666667" height="10" y="2428" x="0" fill="#343b3f" />
+<rect width="64.66666666666667" height="10" y="2428" x="66.66666666666667" fill="#ff89b5" />
+<rect width="64.66666666666667" height="10" y="2428" x="133.33333333333334" fill="#d1bdff" />
+<text y="2451" x="3">Mirage</text><rect width="64.66666666666667" height="10" y="2454" x="0" fill="#cdb670" />
+<rect width="64.66666666666667" height="10" y="2454" x="66.66666666666667" fill="#ffffff" />
+<rect width="64.66666666666667" height="10" y="2454" x="133.33333333333334" fill="#000000" />
+<text y="2477" x="3">Solar Flare</text><rect width="64.66666666666667" height="10" y="2480" x="0" fill="#f8da1b" />
+<rect width="64.66666666666667" height="10" y="2480" x="66.66666666666667" fill="#9a008a" />
+<rect width="64.66666666666667" height="10" y="2480" x="133.33333333333334" fill="#7b76a6" />
+<text y="2503" x="3">Daytrip</text><rect width="64.66666666666667" height="10" y="2506" x="0" fill="#f83439" />
+<rect width="64.66666666666667" height="10" y="2506" x="66.66666666666667" fill="#9bc6e3" />
+<rect width="64.66666666666667" height="10" y="2506" x="133.33333333333334" fill="#321913" />
+<text y="2529" x="3">Deep Breath</text><rect width="98" height="10" y="2532" x="0" fill="#eee9dc" />
+<rect width="98" height="10" y="2532" x="100" fill="#e2818a" />
+<text y="2555" x="3">Crystal Palace</text><rect width="64.66666666666667" height="10" y="2558" x="0" fill="#e2a9c9" />
+<rect width="64.66666666666667" height="10" y="2558" x="66.66666666666667" fill="#000000" />
+<rect width="64.66666666666667" height="10" y="2558" x="133.33333333333334" fill="#fc411e" />
+<text y="2581" x="3">Stardust</text><rect width="48" height="10" y="2584" x="0" fill="#0a005a" />
+<rect width="48" height="10" y="2584" x="50" fill="#f0f0f0" />
+<rect width="48" height="10" y="2584" x="100" fill="#fca59b" />
+<rect width="48" height="10" y="2584" x="150" fill="#fc411e" />
+<text y="2607" x="3">Broken Spaceship</text><rect width="98" height="10" y="2610" x="0" fill="#cdcdd0" />
+<rect width="98" height="10" y="2610" x="100" fill="#f74a1f" />
+<text y="2633" x="3">Overgrown</text><rect width="98" height="10" y="2636" x="0" fill="#f7f7f7" />
+<rect width="98" height="10" y="2636" x="100" fill="#26cb4d" />
+<text y="2659" x="3">Hidden Passage</text><rect width="64.66666666666667" height="10" y="2662" x="0" fill="#2d1c46" />
+<rect width="64.66666666666667" height="10" y="2662" x="66.66666666666667" fill="#b6d5f4" />
+<rect width="64.66666666666667" height="10" y="2662" x="133.33333333333334" fill="#ec2326" />
+<text y="2685" x="3">Tamed Beast</text><rect width="64.66666666666667" height="10" y="2688" x="0" fill="#053161" />
+<rect width="64.66666666666667" height="10" y="2688" x="66.66666666666667" fill="#ff6a34" />
+<rect width="64.66666666666667" height="10" y="2688" x="133.33333333333334" fill="#bed9da" />
+<text y="2711" x="3">Golden Hour</text><rect width="48" height="10" y="2714" x="0" fill="#fdb90b" />
+<rect width="48" height="10" y="2714" x="50" fill="#fb5408" />
+<rect width="48" height="10" y="2714" x="100" fill="#8caecc" />
+<rect width="48" height="10" y="2714" x="150" fill="#321913" />
+<text y="2737" x="3">The Cottage</text><rect width="64.66666666666667" height="10" y="2740" x="0" fill="#837663" />
+<rect width="64.66666666666667" height="10" y="2740" x="66.66666666666667" fill="#101c4e" />
+<rect width="64.66666666666667" height="10" y="2740" x="133.33333333333334" fill="#ffd3c2" />
+<text y="2763" x="3">Tangled Web</text><rect width="48" height="10" y="2766" x="0" fill="#b2b2b2" />
+<rect width="48" height="10" y="2766" x="50" fill="#000000" />
+<rect width="48" height="10" y="2766" x="100" fill="#ffffff" />
+<rect width="48" height="10" y="2766" x="150" fill="#e9ff27" />
+<text y="2789" x="3">Old World</text><rect width="64.66666666666667" height="10" y="2792" x="0" fill="#91a8cf" />
+<rect width="64.66666666666667" height="10" y="2792" x="66.66666666666667" fill="#fffbfb" />
+<rect width="64.66666666666667" height="10" y="2792" x="133.33333333333334" fill="#3e4668" />
+<text y="2815" x="3">Paradiso</text><rect width="64.66666666666667" height="10" y="2818" x="0" fill="#f2f2f2" />
+<rect width="64.66666666666667" height="10" y="2818" x="66.66666666666667" fill="#000000" />
+<rect width="64.66666666666667" height="10" y="2818" x="133.33333333333334" fill="#0b64fe" />
+<text y="2841" x="3">Fallen Petals</text><rect width="64.66666666666667" height="10" y="2844" x="0" fill="#f2ddbc" />
+<rect width="64.66666666666667" height="10" y="2844" x="66.66666666666667" fill="#ff67b9" />
+<rect width="64.66666666666667" height="10" y="2844" x="133.33333333333334" fill="#faad58" />
+<text y="2867" x="3">Bloodsmoke</text><rect width="98" height="10" y="2870" x="0" fill="#ff8b8b" />
+<rect width="98" height="10" y="2870" x="100" fill="#9c2525" />
+    </svg>
+  
