@@ -20,7 +20,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "palette-aldente": "^1.11.1",
+    "palette-aldente": "^1.14.0",
     "puppeteer": "^11.0.0"
   },
   "exports": {
